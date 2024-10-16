@@ -1,0 +1,6 @@
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\bin\Debug\AddinDiritProject.dll
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\bin\Debug\AddinDiritProject.pdb
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\obj\Debug\AddinDiritProject.csproj.AssemblyReference.cache
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\obj\Debug\AddinDiritProject.csproj.CoreCompileInputs.cache
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\obj\Debug\AddinDiritProject.dll
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\obj\Debug\AddinDiritProject.pdb

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AddinDiritProject</Name>
+    <Assembly>AddinDiritProject\AddinDiritProject.dll</Assembly>
+    <FullClassName>AddinDiritProject.App</FullClassName>
+    <ClientId>EF05D41F-EDAF-4FF0-9FAD-1B64D1933FCD</ClientId>
+    <VendorId>BCCEE7F6-9591-46A0-8AD9-61D5B124D648</VendorId>
+    <VendorDescription>AddinDiritTool</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,5 @@
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\Output\Release_2020\AddinDiritTools\AddinDiritProject.dll
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\obj\Release_2020\AddinDiritProject.csproj.AssemblyReference.cache
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\obj\Release_2020\AddinDiritProject.csproj.CoreCompileInputs.cache
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\obj\Release_2020\AddinDir.6886AEB2.Up2Date
+C:\Users\giang\OneDrive\Máy tính\AddinDiritProject\AddinDiritProject\obj\Release_2020\AddinDiritProject.dll
